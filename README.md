@@ -1,8 +1,11 @@
-# React + Vite
+# Optimised PasswordGenerator
+Made an Optimised PasswordGenerator which use the useCallback function for memoization using vite+react and tailwind css 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Netlify link](https://optimisedpasswordgenerator.netlify.app/)
+ 
+## Time taken : 
+ - 4 hrs
+ 
+ ## Demo Video Link :
+ https://github.com/rk301999/Optimised_PasswordGenerator/assets/42288787/a02a4e12-434e-4a20-a21a-6749badfe704
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
