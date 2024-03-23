@@ -1,5 +1,5 @@
 # Optimised PasswordGenerator
-Made an Optimised PasswordGenerator which use the useCallback function for memoization using vite+react and tailwind css 
+Made an Optimised PasswordGenerator which uses the concept of memoization using vite+react and tailwind css 
 
 [Netlify link](https://optimisedpasswordgenerator.netlify.app/)
  
